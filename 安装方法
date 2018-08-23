@@ -14,3 +14,4 @@
       Pywin32
       numpy+mkl
       scipy
+      matplotlib
