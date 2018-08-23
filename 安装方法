@@ -16,3 +16,16 @@
       scipy
       matplotlib
       opencv-python
+      
+      安装方法：下载package文件夹，用你对应的python版本的。下载好以后打开文件夹，按住shift在文件夹空白地方点右键，选打开shell窗口. 进去以后敲命令
+      pip install xxxxxx
+      xxxxxx就是文件名，写头几个字母按一下tab就可以补全名字。
+      等所有包都装完。
+      这个方法一定要至少把numpy+mkl装上
+      
+      另一个方法就是到pycharm的文件-设置-项目编译器里选python2.7， 然后右边有一个+号，把所需要的包名字输进去，选安装就可以。这个方法要保证把keyboard装上。
+      
+      
+  之后用管理员方式运行Pycharm，在Pycharm里打开china_gamecrack。
+  打开DNF，登录你的游戏，选一个角色进去。
+  回到Pycharm， Debug这个程序就行了。
